@@ -1,4 +1,4 @@
-## Olá, eu sou Jefferson, seja bem vindo ao meu perfil, tenho 20 anos e sou desenvolvedor de jogos na engine unity e desenvolvedor front end 👋
+## Olá, eu sou Jefferson, seja bem vindo ao meu perfil, tenho 20 anos e sou desenvolvedor de jogos na Unity Engine e desenvolvedor front end 👋
 
 ![Jefferson Albuquerque GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAlbuquerque&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAlbuquerque&hide_progress=true)
